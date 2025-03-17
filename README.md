@@ -45,6 +45,6 @@ source venv/bin/activate
     ```
 ## 运行脚本
 
-    ```bash
+    ```
     python main.py
     ```
