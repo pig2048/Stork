@@ -16,8 +16,8 @@ Stork Auto Bot 是一个自动化工具，用于与 Stork Oracle 网络进行交
 
 1. **克隆仓库到本地：**
    ```bash
-   git clone https://github.com/pig2048/stork.git
-   cd stork
+   git clone https://github.com/pig2048/Stork.git
+   cd Stork
    ```
 
 2. **创建并激活虚拟环境：**
